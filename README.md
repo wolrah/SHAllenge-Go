@@ -1,0 +1,3 @@
+I was sufficiently bored when I saw SHAllenge hit the HN frontpage that I decided to try to write a "miner" for it, and since I heard Go is good about concurrency I figured it'd be a good opportunity to learn something.
+
+Expect nothing quality here, this code is full of naive design, lots of things are hardcoded that shouldn't be, and a human has to look at the output to decide of something interesting happened.
